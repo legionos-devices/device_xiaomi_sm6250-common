@@ -289,7 +289,8 @@ PRODUCT_COPY_FILES += \
 
 # Notch Cutout
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    NoCutoutOverlay \
+    NotchBarKiller
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
