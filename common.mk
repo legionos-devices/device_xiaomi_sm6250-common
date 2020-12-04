@@ -320,7 +320,8 @@ PRODUCT_PACKAGES += \
 # RIL
 PRODUCT_PACKAGES += \
     libjson \
-    librmnetctl
+    librmnetctl \
+    libprotobuf-cpp-full
 
 # Sensors
 PRODUCT_PACKAGES += \
