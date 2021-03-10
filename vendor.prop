@@ -236,3 +236,6 @@ persist.sys.wfd.virtual=0
 
 # Wi-Fi
 wifi.aware.interface=wifi-aware0
+
+# Maintainer
+ro.maintainer.name=Rajkale99
