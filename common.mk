@@ -91,7 +91,7 @@ TARGET_SCREEN_WIDTH := 1080
 # Camera
 PRODUCT_PACKAGES += \
     libgui_vendor \
-    GCamGOPrebuilt
+    Snap
 
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
@@ -444,7 +444,7 @@ PRODUCT_PACKAGES += \
     libnl
 
 # XiaomiParts
-PRODUCT_PACKAGES += \
-    XiaomiParts \
-    init.xiaomiparts.rc \
-    init.xiaomiparts.sh
+#PRODUCT_PACKAGES += \
+#    XiaomiParts \
+#    init.xiaomiparts.rc \
+#    init.xiaomiparts.sh

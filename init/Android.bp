@@ -21,8 +21,8 @@ cc_library_static {
         "init_common.cpp"
     ],
     include_dirs: [
-        "system/core/base/include",
-        "system/core/init"
+        "system/core/init",
+        "system/libbase/include"
     ],
     export_include_dirs: [
         "include"
